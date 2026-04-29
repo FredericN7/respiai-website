@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# AI爬虫允许访问
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: KimiBot
+Allow: /
+
+# 站点地图
+Sitemap: https://respi-ai.vercel.app/sitemap.xml
